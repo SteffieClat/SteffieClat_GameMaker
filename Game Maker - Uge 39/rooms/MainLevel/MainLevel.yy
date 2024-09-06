@@ -8,7 +8,17 @@
   "instanceCreationOrder":[],
   "isDnd":false,
   "layers":[
-    {"$GMRAssetLayer":"","%Name":"Back_Clouds","assets":[],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Back_Clouds","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRAssetLayer":"","%Name":"Back_Clouds","assets":[
+        {"$GMRSpriteGraphic":"","%Name":"graphic_2FA0A661","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2FA0A661","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},"x":72.0,"y":-91.0,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_162DBDFD","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_162DBDFD","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},"x":178.5,"y":136.0,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_3936E98D","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3936E98D","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},"x":1108.0,"y":195.5,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_185E6604","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_185E6604","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},"x":3382.0,"y":-38.5,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_9A3866C","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_9A3866C","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},"x":1686.0,"y":-257.5,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_2CE495F0","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2CE495F0","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},"x":4404.0,"y":-91.0,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_70948002","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_70948002","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},"x":2639.0,"y":278.5,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_3119B44F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3119B44F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},"x":3853.5,"y":310.5,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_592981EC","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_592981EC","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},"x":2023.0,"y":-76.0,},
+      ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Back_Clouds","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Back_sky","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Back_sky","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sky","path":"sprites/Sky/Sky.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
   ],
@@ -28,10 +38,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":2000,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":5000,
   },
   "sequenceId":null,
   "views":[
